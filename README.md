@@ -2,7 +2,7 @@
 
 ## Description
 
-Brewing Information is a mod for Potion Craft that will show you some important information about brewins process:
+Brewing Information is a mod for Potion Craft that will show you some important information about brewing process:
 - Ingredient grind status.
 - Potion health.
 - Potion coordinates on the map.
