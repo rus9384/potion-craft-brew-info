@@ -11,7 +11,7 @@ Brewing Information is a mod for Potion Craft that will show you some important 
 
 ## Installation
 To install Brewing Information, you will need to follow the following steps (if you already installed other mods, skip to step 3):
-1. Install (https://github.com/BepInEx/BepInEx/releases/latest)[BepInEx 5.x x64 bit].
+1. Install [BepInEx 5.x x64 bit](https://github.com/BepInEx/BepInEx/releases/latest).
 2. Launch the game and close it.
 3. Copy `com.rus9384.brewinginformation.dll` file to `BepInEx/plugins` folder.
 
