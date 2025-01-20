@@ -22,7 +22,7 @@ After installing Brewing Information and launching the game once, `BepInEx/confi
 - - `EnableHealth` - this setting controls whether the information about potion health is shown. Possible values: `true`, `false`.
 - - `EnablePotionCoordinates` - this setting controls whether the information about potion coordinates is shown. Possible values: `true`, `false`.
 - - `EnablePotionRotation` - this setting controls whether the information about potion rotation angle is shown. Possible values: `true`, `false`.
-- - `EnableGrindStatus` - this setting controls whether the information about path angle is shown. Possible values: `true`, `false`.
+- - `EnablePathAngle` - this setting controls whether the information about path angle is shown. Possible values: `true`, `false`.
 - `Graphics` section:
 - - `Scale` - this setting affects the size of information window. `100` is default scale. Recommended range of values: `40` to `150`.
 - - `EnableScratches` - this setting controls whether the scratches visual effect is rendered. Possible values: `true`, `false`.
