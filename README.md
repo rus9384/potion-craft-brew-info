@@ -6,8 +6,8 @@ Brewing Information is a mod for Potion Craft that will show you some important 
 - Ingredient grind status.
 - Potion health.
 - Potion coordinates on the map.
-- Potion rotation angle.
-- Path angle (where the potion will travel if you will stir).
+- Potion rotation angle (measured in degrees, in counterclockwise direction, 0 means facing up).
+- Path angle (where the potion will travel if you will stir) (measured in degrees, in counterclockwise direction, 0 means facing up).
 
 ## Installation
 To install Brewing Information, you will need to follow the following steps (if you already installed other mods, skip to step 3):
